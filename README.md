@@ -17,36 +17,35 @@ Requisitos:
 
 Pasos:
 
-```bash
+~~~bash
 git clone https://github.com/JuanesSosa/GitFlowPractice.git
-cd NOMBRE_DEL_REPO
+cd GitFlowPractice
 npm install
-`
-``
+~~~
 
 ## Uso
 
 Levantar el servidor local:
 
-```bash
+~~~bash
 npm start
-```
+~~~
 
 Probar el endpoint:
 
-```bash
+~~~bash
 curl http://localhost:3000/api/estado
-```
+~~~
 
 Respuesta esperada:
 
-```json
+~~~json
 {
   "ok": true,
   "mensaje": "API de practica Git Flow funcionando",
   "version": "1.0.0"
 }
-```
+~~~
 
 ## Autores
 
