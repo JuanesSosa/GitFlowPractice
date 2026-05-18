@@ -57,5 +57,6 @@ Respuesta esperada:
 
 Este proyecto usa Git Flow como estrategia de ramas.
 Se trabaja con ramas feature, release y hotfix.
+Versión lista para release v1.0.0.
 Saler
 Saler2
