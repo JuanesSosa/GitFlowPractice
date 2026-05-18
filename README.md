@@ -56,3 +56,5 @@ Respuesta esperada:
 ## Flujo de trabajo Git
 
 Este proyecto usa Git Flow como estrategia de ramas.
+Saler
+Saler2
