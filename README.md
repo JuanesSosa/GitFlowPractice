@@ -51,7 +51,7 @@ Respuesta esperada:
 
 - Nombre: Juan Esteban Sosa
 - Grupo: 1
-- Curso: Inge Software II
+- Curso: Ingenieria Software II
 
 ## Flujo de trabajo Git
 
