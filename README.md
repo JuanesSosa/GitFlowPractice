@@ -51,11 +51,13 @@ Respuesta esperada:
 
 - Nombre: Juan Esteban Sosa
 - Grupo: 1
-- Curso: Inge Software II
+- Curso: Ingenieria Software II
 
 ## Flujo de trabajo Git
 
 Este proyecto usa Git Flow como estrategia de ramas.
-Se trabaja con ramas feature, release y hotfix.
-Saler
-Saler2
+
+- La rama `develop` integra los cambios antes de liberar una versión.
+- Las ramas `feature/` se usan para desarrollar nuevas funcionalidades.
+- La rama `release/v1.0.0` prepara la versión estable del proyecto.
+- La rama `hotfix/readme-typo` corrige errores urgentes desde main.
